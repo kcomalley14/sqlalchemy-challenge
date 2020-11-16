@@ -79,7 +79,7 @@ Here, we will use FLASK to create routes to an API for the queries we have devel
     * Return a JSON list of temperature observations (TOBS) for the previous year.
 
 
-* `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`
+* ```/api/v1.0/<start>``` and ```/api/v1.0/<start>/<end>```
 
     * Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
 
