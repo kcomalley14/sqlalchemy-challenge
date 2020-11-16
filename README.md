@@ -53,7 +53,7 @@ Here, we will use FLASK to create routes to an API for the queries we have devel
 ### Routes
 
 
-* '/'
+* `/`
 
 
 Home page.
